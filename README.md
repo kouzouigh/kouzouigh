@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Kamel</h1>
-<h3 align="center">I'm a passionate software engineer with strong background in karge scale ditributed applications. I lives in Paris, France.</h3>
+<h3 align="center">I'm a passionate software engineer with strong background in large scale ditributed applications. I lives in Paris, France.</h3>
 <p align="left"> <a href="https://twitter.com/onyme001" target="blank"><img src="https://img.shields.io/twitter/follow/onyme001?logo=twitter&style=for-the-badge" alt="anirspeaks" /></a> </p>
 - 🌱 I’m currently learning **.Net and Azure**
 
